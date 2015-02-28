@@ -1,0 +1,9 @@
+# Site settings
+title: retrogarde
+tag_text: retrogarde
+description: learn how to reverse with fun challenges
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
