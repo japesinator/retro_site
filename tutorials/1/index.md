@@ -2,7 +2,7 @@
 layout: default
 ---
 
-So how do I do level 1 anyway?
+so how do i do level 1 anyway?
 ==============================
 
 Finally! Some real reversing! Just what you tried retrograde for. If you picked

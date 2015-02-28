@@ -2,7 +2,7 @@
 layout: default
 ---
 
-So how do I do level 3 anyway?
+so how do i do level 3 anyway?
 ==============================
 
 The particularly analytic reader may have predicted the binary once again found

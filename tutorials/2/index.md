@@ -2,7 +2,7 @@
 layout: default
 ---
 
-So how do I do level 2 anyway?
+so how do i do level 2 anyway?
 ==============================
 
 Oh joy! Another binary! Just what you, our dear reader, was clearly looking for!

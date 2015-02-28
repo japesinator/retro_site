@@ -2,7 +2,7 @@
 layout: default
 ---
 
-So how do I do level 0 anyway?
+so how do i do level 0 anyway?
 ==============================
 
 Level 0 is pretty much just meant to get you used to the style and format of

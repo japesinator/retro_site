@@ -23,6 +23,11 @@ you've sold me, how do I start?
 clicking [here](#here) takes you to a web-based terminal that will guide you
 through the challenges
 
+i'm stuck
+---------
+
+look at [this](/tutorials)
+
 this is awesome, who made this?
 -------------------------------
 

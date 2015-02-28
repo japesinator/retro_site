@@ -2,7 +2,7 @@
 layout: default
 ---
 
-So how do I do level 4 anyway?
+so how do i do level 4 anyway?
 ==============================
 
 This final (for now) level offers its participants a seemingly impossible task:

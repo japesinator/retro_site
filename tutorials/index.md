@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Tutorials
+tutorials
 =========
 
 + [0](/tutorials/0)
