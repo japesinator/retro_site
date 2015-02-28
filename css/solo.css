@@ -23,7 +23,7 @@ body {
 }
 
 a {
-  color: #0074d9; /* From http://clrs.cc */
+  color: #2aa198; /* From http://clrs.cc */
   text-decoration: none;
 }
 
@@ -32,14 +32,15 @@ a:hover, a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color: #eee8d5;
   font-family: Inconsolata, sans-serif;
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   line-height: 1;
   text-rendering: optimizeLegibility;
-  -webkit-box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  -moz-box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  background: #eeeeee
+  -webkit-box-shadow: 10px 10px 0px 0px #93a1a1;
+  -moz-box-shadow: 10px 10px 0px 0px #93a1a1;
+  box-shadow: 10px 10px 0px 0px #93a1a1;
+  background: #073642
 }
 
 h1 {
@@ -75,12 +76,13 @@ h3, h4, h5, h6 {
 }
 
 p, ul, ol, dl, table, pre, blockquote {
+  color: #eee8d5;
   margin-top: 0;
   margin-bottom: 1rem;
-  -webkit-box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  -moz-box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  box-shadow: 10px 10px 0px 0px rgba(51,3,NaN,3);
-  background: #eeeeee
+  -webkit-box-shadow: 10px 10px 0px 0px #93a1a1;
+  -moz-box-shadow: 10px 10px 0px 0px #93a1a1;
+  box-shadow: 10px 10px 0px 0px #93a1a1;
+  background: #073642
 }
 
 ul, ol {
